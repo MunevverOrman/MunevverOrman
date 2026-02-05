@@ -1,7 +1,7 @@
 <h1 align="center">💜 Merhaba, ben Münevver Orman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E38AAE&center=true&vCenter=true&width=760&lines=Junior+Computer+Engineer;Full+Stack+Web+Geli%C5%9Ftirme+Bootcamp;Bilgisayar+M%C3%BChendisli%C4%9Fi+Mezunuyum;Ger%C3%A7ek+Projelerle+%C3%96%C4%9Freniyorum+%E2%9C%A8;Kendimi+S%C3%BCrekli+Geli%C5%9Ftiriyorum" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E38AAE&center=true&vCenter=true&width=520&lines=Junior+Computer+Engineer" />
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 ## ✨ Hakkımda
 
-Bilgisayar Mühendisliği mezunuyum ve **full stack web geliştirme** alanında kendimi geliştirdiğim bir bootcamp sürecindeyim.  
-Yazılım geliştirme sürecinde **temiz kod, mimari bakış açısı ve sürdürülebilir yapıların** önemine inanıyorum.  
-Gerçek projeler üzerinden ilerleyerek hem backend hem frontend tarafında deneyim kazanmayı, öğrendiklerimi uygulamaya dökmeyi ve zamanla teknoloji yelpazemi genişletmeyi hedefliyorum.
+Full stack web geliştirme alanında çalışıyorum.  
+Gerçek projeler üzerinden ilerleyerek hem backend hem frontend tarafında deneyim kazanıyor, öğrendiklerimi uygulamaya dökmeye önem veriyorum.  
+Temiz kod, mimari bakış açısı ve sürdürülebilir yapılar odağında ilerleyerek zamanla teknoloji yelpazemi genişletmeyi hedefliyorum.
 
 ---
 
@@ -71,4 +71,4 @@ Gerçek projeler üzerinden ilerleyerek hem backend hem frontend tarafında dene
 
 ---
 
-<p align="center"><i>✨ Öğrenme sürecimde edindiğim bilgileri gerçek projelere dönüştürmeye devam ediyorum ✨</i></p>
+<p align="center"><i>✨ Öğrendiklerimi gerçek projelere dönüştürerek gelişmeye devam ediyorum ✨</i></p>
