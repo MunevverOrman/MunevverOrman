@@ -1,7 +1,7 @@
 <h1 align="center">💜 Merhaba, ben Münevver Orman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E38AAE&center=true&vCenter=true&width=520&lines=Bilgisayar+Mühendisliği+Mezunu;ASP.NET+Core+Geliştiricisi;Backend+Odaklı+Web+Uygulamaları;Gerçek+Projelerle+Öğreniyorum+✨" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E38AAE&center=true&vCenter=true&width=720&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+Mezunuyum;Full+Stack+Web+Geli%C5%9Ftirme+Bootcamp;Ger%C3%A7ek+Projelerle+%C3%96%C4%9Freniyorum+%E2%9C%A8;Kendimi+S%C3%BCrekli+Geli%C5%9Ftiriyorum" />
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
 
 ## ✨ Hakkımda
 
-Bilgisayar Mühendisliği mezunuyum ve .NET ekosistemi üzerinde backend odaklı web uygulamaları geliştiriyorum.  
-Katmanlı mimari, temiz kod prensipleri ve veri odaklı yaklaşımlar ile sürdürülebilir sistemler kurmaya önem veriyorum.  
-Farklı veritabanlarıyla çalışarak güvenli, ölçeklenebilir ve gerçek dünya senaryolarına uygun projeler geliştirmeyi hedefliyorum.
+Bilgisayar Mühendisliği mezunuyum ve **full stack web geliştirme** alanında kendimi geliştirdiğim bir bootcamp sürecindeyim.  
+Yazılım geliştirme sürecinde **temiz kod, mimari bakış açısı ve sürdürülebilir yapıların** önemine inanıyorum.  
+Gerçek projeler üzerinden ilerleyerek hem backend hem frontend tarafında deneyim kazanmayı, öğrendiklerimi uygulamaya dökmeyi ve zamanla teknoloji yelpazemi genişletmeyi hedefliyorum.
 
 ---
 
@@ -31,11 +31,9 @@ Farklı veritabanlarıyla çalışarak güvenli, ölçeklenebilir ve gerçek dü
   <img src="https://img.shields.io/badge/ASP.NET%20Core-9B59B6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Web%20API-F5B7B1?style=for-the-badge"/>
 
-  <!-- Kimlik Doğrulama & Güvenlik -->
+  <!-- Kimlik & Güvenlik -->
   <img src="https://img.shields.io/badge/ASP.NET%20Identity-D7BDE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JWT-EBDEF0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kimlik%20Doğrulama-BB8FCE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Yetkilendirme-C39BD3?style=for-the-badge"/>
 
   <!-- Veri & ORM -->
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-FADBD8?style=for-the-badge"/>
@@ -45,7 +43,7 @@ Farklı veritabanlarıyla çalışarak güvenli, ölçeklenebilir ve gerçek dü
   <img src="https://img.shields.io/badge/MongoDB-D5F5E3?style=for-the-badge"/>
 
   <!-- Mimari -->
-  <img src="https://img.shields.io/badge/N--Katmanlı%20Mimari-E8DAEF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/N--Katmanl%C4%B1%20Mimari-E8DAEF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OOP-D2B4DE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SOLID-C39BD3?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Design%20Patterns-EAD1DC?style=for-the-badge"/>
@@ -62,7 +60,7 @@ Farklı veritabanlarıyla çalışarak güvenli, ölçeklenebilir ve gerçek dü
   <img src="https://img.shields.io/badge/Postman-FADBD8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Rapid%20API-E8DAEF?style=for-the-badge"/>
 
-  <!-- Geliştirme Araçları -->
+  <!-- Versiyon Kontrol -->
   <img src="https://img.shields.io/badge/Git-F5B7B1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GitHub-FADBD8?style=for-the-badge"/>
 
@@ -70,4 +68,4 @@ Farklı veritabanlarıyla çalışarak güvenli, ölçeklenebilir ve gerçek dü
 
 ---
 
-<p align="center"><i>✨ Öğrendiklerimi gerçek dünya backend çözümlerine dönüştürüyorum ✨</i></p>
+<p align="center"><i>✨ Öğrenme sürecimde edindiğim bilgileri gerçek projelere dönüştürmeye devam ediyorum ✨</i></p>
