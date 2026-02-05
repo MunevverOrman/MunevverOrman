@@ -18,7 +18,7 @@
 
 ## ✨ Hakkımda
 
-Full stack web geliştirme alanında çalışıyorum.  
+ 
 Gerçek projeler üzerinden ilerleyerek hem backend hem frontend tarafında deneyim kazanıyor, öğrendiklerimi uygulamaya dökmeye önem veriyorum.  
 Temiz kod, mimari bakış açısı ve sürdürülebilir yapılar odağında ilerleyerek zamanla teknoloji yelpazemi genişletmeyi hedefliyorum.
 
