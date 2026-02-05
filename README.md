@@ -1,7 +1,7 @@
 <h1 align="center">💜 Merhaba, ben Münevver Orman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E38AAE&center=true&vCenter=true&width=720&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+Mezunuyum;Full+Stack+Web+Geli%C5%9Ftirme+Bootcamp;Ger%C3%A7ek+Projelerle+%C3%96%C4%9Freniyorum+%E2%9C%A8;Kendimi+S%C3%BCrekli+Geli%C5%9Ftiriyorum" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E38AAE&center=true&vCenter=true&width=760&lines=Junior+Computer+Engineer;Full+Stack+Web+Geli%C5%9Ftirme+Bootcamp;Bilgisayar+M%C3%BChendisli%C4%9Fi+Mezunuyum;Ger%C3%A7ek+Projelerle+%C3%96%C4%9Freniyorum+%E2%9C%A8;Kendimi+S%C3%BCrekli+Geli%C5%9Ftiriyorum" />
 </p>
 
 <p align="center">
