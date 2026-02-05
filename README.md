@@ -1,7 +1,7 @@
-<h1 align="center">💜 Hi, I'm Münevver Orman</h1>
+<h1 align="center">💜 Merhaba, ben Münevver Orman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E38AAE&center=true&vCenter=true&width=520&lines=Computer+Engineering+Graduate;ASP.NET+Core+Developer;Web+API+%26+MVC+Focused;Learning+by+Building+Real+Projects+✨" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E38AAE&center=true&vCenter=true&width=520&lines=Bilgisayar+Mühendisliği+Mezunu;ASP.NET+Core+Geliştiricisi;Web+API+ve+MVC+Odaklı;Gerçek+Projelerle+Öğreniyorum+✨" />
 </p>
 
 <p align="center">
@@ -13,16 +13,16 @@
 
 ---
 
-## ✨ About Me
-- 💻 Computer Engineering Graduate  
-- 🚀 Developing backend-focused applications with **ASP.NET Core, Web API, and MVC**  
-- 🧠 Interested in **clean architecture, layered systems, and data-driven applications**  
-- 🏨 Enjoy building **real-world, API-based projects**  
-- 🎯 Goal: *Clean code, scalable architecture, and a strong backend portfolio*
+## ✨ Hakkımda
+- 💻 Bilgisayar Mühendisliği mezunuyum  
+- 🚀 **ASP.NET Core, Web API ve MVC** ile backend odaklı uygulamalar geliştiriyorum  
+- 🧠 **Katmanlı mimari, temiz kod ve veri odaklı sistemler** ilgimi çekiyor  
+- 🏨 **Gerçek dünya senaryolarına sahip API tabanlı projeler** geliştirmeyi seviyorum  
+- 🎯 Hedefim: *Temiz kod, ölçeklenebilir mimari ve güçlü bir backend portföyü*
 
 ---
 
-## 🎨 Tech Stack
+## 🎨 Kullandığım Teknolojiler
 
 <p align="center">
 
@@ -32,21 +32,21 @@
   <img src="https://img.shields.io/badge/ASP.NET%20Core-9B59B6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Web%20API-F5B7B1?style=for-the-badge"/>
 
-  <!-- Authentication & Security -->
+  <!-- Kimlik Doğrulama & Güvenlik -->
   <img src="https://img.shields.io/badge/ASP.NET%20Identity-D7BDE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JWT-EBDEF0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Authentication-BB8FCE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Authorization-C39BD3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kimlik%20Doğrulama-BB8FCE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Yetkilendirme-C39BD3?style=for-the-badge"/>
 
-  <!-- ORM & Data -->
+  <!-- Veri & ORM -->
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-FADBD8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Dapper-FDEDEC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MSSQL-F1948A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-D6EAF8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MongoDB-D5F5E3?style=for-the-badge"/>
 
-  <!-- Architecture -->
-  <img src="https://img.shields.io/badge/N--Tier%20Architecture-E8DAEF?style=for-the-badge"/>
+  <!-- Mimari -->
+  <img src="https://img.shields.io/badge/N--Katmanlı%20Mimari-E8DAEF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OOP-D2B4DE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SOLID-C39BD3?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Design%20Patterns-EAD1DC?style=for-the-badge"/>
@@ -58,12 +58,12 @@
   <img src="https://img.shields.io/badge/Razor%20Pages-FADBD8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Ajax-FDEBD0?style=for-the-badge"/>
 
-  <!-- API & Tools -->
+  <!-- API & Araçlar -->
   <img src="https://img.shields.io/badge/Swagger-D7BDE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Postman-FADBD8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Rapid%20API-E8DAEF?style=for-the-badge"/>
 
-  <!-- Dev Tools -->
+  <!-- Geliştirme Araçları -->
   <img src="https://img.shields.io/badge/Git-F5B7B1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GitHub-FADBD8?style=for-the-badge"/>
 
@@ -71,4 +71,4 @@
 
 ---
 
-<p align="center"><i>✨ Turning what I learn into real-world backend solutions ✨</i></p>
+<p align="center"><i>✨ Öğrendiklerimi gerçek dünya backend çözümlerine dönüştürüyorum ✨</i></p>
