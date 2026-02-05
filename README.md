@@ -5,7 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MunevverOrman&style=for-the-badge&color=E38AAE" />
+  🌱 <b>Continuously learning and building full stack projects</b>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/münevver-orman-547275230">
     <img src="https://img.shields.io/badge/LinkedIn-E38AAE?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
