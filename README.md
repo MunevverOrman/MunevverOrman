@@ -15,10 +15,10 @@
 
 ## ✨ About Me
 - 💻 Computer Engineering Graduate  
-- 🚀 Developing applications with **ASP.NET Core, Web API, and MVC**  
-- 🧠 Interested in **clean architecture, layered systems, and backend development**  
+- 🚀 Developing backend-focused applications with **ASP.NET Core, Web API, and MVC**  
+- 🧠 Interested in **clean architecture, layered systems, and data-driven applications**  
 - 🏨 Enjoy building **real-world, API-based projects**  
-- 🎯 Goal: *Clean code, scalable architecture, and a strong backend-focused portfolio*
+- 🎯 Goal: *Clean code, scalable architecture, and a strong backend portfolio*
 
 ---
 
@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/.NET-C39BD3?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ASP.NET%20Core-9B59B6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Web%20API-F5B7B1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MSSQL-F1948A?style=for-the-badge"/>
 
   <!-- Authentication & Security -->
   <img src="https://img.shields.io/badge/ASP.NET%20Identity-D7BDE2?style=for-the-badge"/>
@@ -41,8 +40,10 @@
 
   <!-- ORM & Data -->
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-FADBD8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ADO.NET-FDEDEC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-F5CBA7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dapper-FDEDEC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MSSQL-F1948A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-D6EAF8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-D5F5E3?style=for-the-badge"/>
 
   <!-- Architecture -->
   <img src="https://img.shields.io/badge/N--Tier%20Architecture-E8DAEF?style=for-the-badge"/>
@@ -62,15 +63,12 @@
   <img src="https://img.shields.io/badge/Postman-FADBD8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Rapid%20API-E8DAEF?style=for-the-badge"/>
 
-  <!-- DevOps & Extra -->
+  <!-- Dev Tools -->
   <img src="https://img.shields.io/badge/Git-F5B7B1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GitHub-FADBD8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Publish%20%26%20Deploy-EBDEF0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TDD-F5EEF8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Angular-D2B4DE?style=for-the-badge"/>
 
 </p>
 
 ---
 
-<p align="center"><i>✨ Turning what I learn into real-world applications ✨</i></p>
+<p align="center"><i>✨ Turning what I learn into real-world backend solutions ✨</i></p>
