@@ -1,7 +1,7 @@
 <h1 align="center">💜 Merhaba, ben Münevver Orman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E38AAE&center=true&vCenter=true&width=520&lines=Bilgisayar+Mühendisliği+Mezunu;ASP.NET+Core+Geliştiricisi;Web+API+ve+MVC+Odaklı;Gerçek+Projelerle+Öğreniyorum+✨" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E38AAE&center=true&vCenter=true&width=520&lines=Bilgisayar+Mühendisliği+Mezunu;ASP.NET+Core+Geliştiricisi;Backend+Odaklı+Web+Uygulamaları;Gerçek+Projelerle+Öğreniyorum+✨" />
 </p>
 
 <p align="center">
@@ -14,11 +14,10 @@
 ---
 
 ## ✨ Hakkımda
-- 💻 Bilgisayar Mühendisliği mezunuyum  
-- 🚀 **ASP.NET Core, Web API ve MVC** ile backend odaklı uygulamalar geliştiriyorum  
-- 🧠 **Katmanlı mimari, temiz kod ve veri odaklı sistemler** ilgimi çekiyor  
-- 🏨 **Gerçek dünya senaryolarına sahip API tabanlı projeler** geliştirmeyi seviyorum  
-- 🎯 Hedefim: *Temiz kod, ölçeklenebilir mimari ve güçlü bir backend portföyü*
+
+Bilgisayar Mühendisliği mezunuyum ve .NET ekosistemi üzerinde backend odaklı web uygulamaları geliştiriyorum.  
+Katmanlı mimari, temiz kod prensipleri ve veri odaklı yaklaşımlar ile sürdürülebilir sistemler kurmaya önem veriyorum.  
+Farklı veritabanlarıyla çalışarak güvenli, ölçeklenebilir ve gerçek dünya senaryolarına uygun projeler geliştirmeyi hedefliyorum.
 
 ---
 
