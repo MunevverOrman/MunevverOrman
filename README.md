@@ -12,9 +12,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/münevver-orman-547275230">
-    <img src="https://img.shields.io/badge/LinkedIn-E38AAE?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E38AAE&center=true&vCenter=true&width=520&lines=.NET+Full+Stack+Developer" />
 </p>
 
 ---
