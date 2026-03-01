@@ -1,9 +1,9 @@
 <h1 align="center">🌸 Merhaba, ben Münevver Orman</h1>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E38AAE&center=true&vCenter=true&width=520&lines=Junior+Computer+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E38AAE&center=true&vCenter=true&width=520&lines=.NET+Full+Stack+Developer" />
 </p>
+
 
 <p align="center">
   🌷 Full stack web geliştirme yolculuğunda, öğrendiklerini projelere dönüştüren bir geliştiriciyim
@@ -11,9 +11,6 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E38AAE&center=true&vCenter=true&width=520&lines=.NET+Full+Stack+Developer" />
-</p>
 
 ---
 
