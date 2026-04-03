@@ -66,6 +66,3 @@ Temiz kod, mimari bakış açısı ve sürdürülebilir yapılar odağında iler
 
 ---
 
-<p align="center">
-  <i>✨ Öğrendiklerimi gerçek projelere dönüştürerek gelişmeye devam ediyorum ✨</i>
-</p>
