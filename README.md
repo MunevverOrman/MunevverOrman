@@ -65,4 +65,12 @@ Temiz kod, mimari bakış açısı ve sürdürülebilir yapılar odağında iler
 </p>
 
 ---
+## 🤖 Yapay Zeka Entegrasyonları
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-334155?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-475569?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-64748B?style=for-the-badge"/>
+</p>
 
