@@ -20,7 +20,7 @@ Temiz kod, mimari bakış açısı ve sürdürülebilir yapılar odağında iler
 
 ## 🎨 Kullandığım Teknolojiler
 
-### Backend & Veri
+### ⚙️ Backend & Veri 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-334155?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/.NET-475569?style=for-the-badge"/>
@@ -40,7 +40,7 @@ Temiz kod, mimari bakış açısı ve sürdürülebilir yapılar odağında iler
 
 ---
 
-### Frontend, Mimari & Araçlar
+###🧩 Frontend, Mimari & Araçlar
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-334155?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CSS-475569?style=for-the-badge"/>
